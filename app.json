@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "CEMIVO",
+    "slug": "cemivo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "owner": "apthi",
+    "android": {
+      "package": "com.cemivo.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.cemivo.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eabd301e-3e25-4a48-8cdb-487643808abf"
+      }
+    }
+  }
+}
